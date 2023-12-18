@@ -2,8 +2,7 @@
 
 | Version | History                             |
 | ------- | ----------------------------------- |  
-|  4.4    |  Added a MORE INFO section on the   |
-|         |  title                              |
+|  4.4    |  Added a MORE INFO section on the title |
 |  4.3    |  Added a User-Friendly intro.       |
 |  4.2    |  Added a SETTINGS tab.              |
 |  4.1    |  Added a MOVIES tab.                |
