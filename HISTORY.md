@@ -1,7 +1,10 @@
 # Version History
 
 | Version | History                             |
-| ------- | ----------------------------------- |  
+| ------- | ----------------------------------- |
+|  5.2    |  Added password formatted text to the padlock |
+|  5.1    |  Added an upcoming Search Bar       |
+|  5.0    |  Added Krunker, Kirka, and Shell Shockers. |
 |  4.4    |  Added a MORE INFO section on the title |
 |  4.3    |  Added a User-Friendly intro.       |
 |  4.2    |  Added a SETTINGS tab.              |
