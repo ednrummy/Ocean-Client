@@ -1,6 +1,6 @@
 Permission-Based Use License
 
-Copyright (c) 2023 declankearney/FreshLakeWater
+Copyright (c) 2023 declankearney/ednrummy
 
 Permission is hereby granted, upon request and at the sole discretion of
 the copyright holder, to use this software (the "Software") for personal but
